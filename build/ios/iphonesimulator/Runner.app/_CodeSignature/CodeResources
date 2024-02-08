@@ -18,7 +18,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		YzRJ5MLEq9BZrwvWdQavlTcbTBY=
+		/7mEtBOLUzkRqzAt/Ahe+mgeDQo=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		kRlvUFYS0GQfzW/RIQ6HqY5Ifqk=
+		08rqnoJPNqGbhj+MizsAbzGTHZI=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		4ZUo+n1/+DENJKsKxoKeWveAjns=
+		Z5+afBBDEAfytqTcfaGYUPcjq44=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		XlRZywbA33kqCjXuMxTiOkolbMk=
+		tykJfD4DP/FhZs+t11mif95Hu2c=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -220,7 +220,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wxwq23ee8wcB5GGGECgbflYTBZctoUnZhMbFOAsjVfs=
+			uLu/0Wedd7jvPPhANHZSwlXv41wDqesZGpP26AsKzQk=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -276,7 +276,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S6s390gdkUOMNJKo95Ts/SfwGgXKIeIxGGa+cIf/QNU=
+			20kooriMhyrXbRMk+LNXE6vZd+oEG2wlLyUf2ihhdQY=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -290,7 +290,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			de6riHU1J5C8rTa3rsjZkbjAHoxaez491NHjs0LIaTo=
+			rJqAZ58NgmTc/Wl+uxaD175PItf74Bg4dCF9Yhu8GbE=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
@@ -339,7 +339,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nnTCzkz318xHsvv1E1495aheQyBfJl57GFadu0xWzG8=
+			Bj20QreFolINkyi7uxQPmWQxF5CSW+hAsj59Jd+hxsA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>

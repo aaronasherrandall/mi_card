@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 
-void main () {
-  runApp(
-    MyApp()
-  );
+void main() {
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
@@ -13,18 +11,25 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         backgroundColor: Colors.teal,
         body: SafeArea(
-          child: Container(
-            // gives us square container
-            height: 100.0,
-            width: 100.0,
-            margin: EdgeInsets.only(left: 30.0),
-            // set properties for the child
-            padding: EdgeInsets.all(20.0),
-            color: Colors.white,
-            child: Text('Hello'),
-          ),
-        ),
+          child: Column(
+            children: <Widget>[
+              CircleAvatar(
+                radius: 50.0,
+                // backgroundColor: Colors.red,
+                foregroundImage: AssetImage('images/profile.JPG'),
+              ),
+              Text(
+                'Aaron Randall',
+                style: TextStyle(
+                  fontSize: 40.0,
+                  color: Colors.white,
+                  fontWeight: FontWeight.bold,
+                )
+              )
+            ],
+          )
       ),
+      )
     );
   }
 }
